@@ -1,0 +1,21 @@
+﻿# 증거 행 번호 (기계 판독용)
+
+source=app6.py
+1=342:_CHANNA_EXT_B85 (embedded extension zip, base85)
+2=752:zlib.decompress (extract extension at runtime)
+3=64614:--load-extension= (load into Chrome)
+4=4922:ZDOLA_FORCE_JS (fetch/XHR body rewrite)
+5=4962:const TARGET = 30 (force 30s)
+6=7062:REGION_RESTRICTED_REPAIR_JS
+7=7092:sessionStorage country_code FR
+8=7102:cookie country=FR
+9=7112:cookie region=EU
+10=65214:add_init_script(REGION_RESTRICTED_REPAIR_JS)
+11=5212:ZDOLA_NEUTER_JS (remove region-restricted UI)
+12=62014:class BrowserEngineThread (dola.com automation)
+13=38607:class CaptchaSession
+14=45824:class CaptchaSolverPopup
+15=2272:SKILL_MD_CONTENT (ported to app/skills, kept)
+16=240:SEEDANCE_UNAVAILABLE (failure string)
+note=proxy configuration: none found (0 hits)
+note=_vp_geo_gate: never set, always False -> dead code
