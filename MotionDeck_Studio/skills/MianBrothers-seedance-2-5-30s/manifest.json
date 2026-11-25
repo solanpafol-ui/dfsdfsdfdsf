@@ -1,9 +1,0 @@
-{
-  "schema": "motiondeck.skill/1",
-  "id": "MianBrothers-seedance-2-5-30s",
-  "name": "MianBrothers-seedance-2-5-30s",
-  "version": "1.0.0",
-  "description": "Specialized video generation using the Seedance 2.5 model with hard-locked single-segment 30-second output. Use when the user requests Seedance 2.5, 30-second videos, longer-form cinematic video, or high-quality animation/film-style output. Always generates one single complete 30-second video in one call. Never splits into multiple clips, never proposes fallbacks, never mentions segmenting. Handles both text-to-video and image-to-video workflows.",
-  "entry": "SKILL.md",
-  "metadata": {}
-}
